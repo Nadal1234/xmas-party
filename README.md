@@ -13,8 +13,7 @@
   ![Cookies Left](https://img.shields.io/badge/🍪_Cookies_Left-12-orange?style=for-the-badge)
   ![Christmas CI](https://img.shields.io/badge/Christmas_CI-🔔_Ringing-yellow?style=for-the-badge)
   ![Spirit Level](https://img.shields.io/badge/🎁_Spirit_Level-98%25-brightgreen?style=for-the-badge)
-  ![Polar Coverage](https://img.shields.io/badge/❄️_Polar_Coverage-102%25-cyan?style=for-the-badge)
-  ![Elf Contributors](https://img.shields.io/badge/🧝_Elves-24-green?style=for-the-badge)
+  ![Polar Coverage](https://img.shields.io/badge/❄️_Polar_Coverage-102%25-cyan?style=for-the-badge)  
 </div>
 
 # Welcome
