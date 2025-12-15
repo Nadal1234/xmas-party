@@ -1,13 +1,10 @@
 # 🎧🎄 Openapi Xmas-Party 2025 Playlist 🎄🎧
 
-Welcome to the **Openapi Xmas-Party 2025 Playlist**!  
+> Welcome to the **Openapi Xmas-Party 2025 Playlist**!  
+
 This is a **collaborative, coding-themed Christmas playlist** built by developers, techies, hackers, and festive elves 🧝‍♂️💻
 
-Here, Christmas classics meet:
-- APIs & SDKs
-- DevOps & CI/CD
-- Merge conflicts & pull requests
-- Sleepless nights… and hot cocoa ☕❄️
+Here, Christmas classics meet: APIs & SDKs, DevOps & CI/CD, Merge conflicts & pull requests, Sleepless nights… and hot cocoa ☕❄️
 
 ## 🎶 What is this?
 
@@ -21,6 +18,18 @@ Each track:
 Think:
 > *Silent Night*, but your build is finally green.  
 > *Last Christmas*, but you gave them your PR.
+
+## 🎼 Playlist
+
+| Status | Song Title                                   | Genre        | Link                                                         |
+|:-----:|----------------------------------------------|--------------|--------------------------------------------------------------|
+| ▶️    | The Final Countdown                           | Epic Rock    | [Go to lyrics](playlist/the_final_countdown.md)             |
+| ⏸️    | Silent Code (Silent Night Parody)             | Traditional  | [Go to lyrics](playlist/silent_code.md)                     |
+| ⏸️    | All I Want for Christmas is Code              | Pop          | [Go to lyrics](playlist/all_i_want_for_christmas_is_code.md)|
+| ⏸️    | Last Christmas (I Gave You My PR)             | Pop          | [Go to lyrics](playlist/last_christmas_i_gave_you_my_pr.md) |
+| ⏸️    | Jingle Bells (API Calls Parody)               | Traditional  | [Go to lyrics](playlist/jingle_bells_api_calls.md)          |
+| ⏸️    | Deck the Halls with Code                      | Traditional  | [Go to lyrics](playlist/deck_the_halls_with_code.md)        |
+| ⏸️    | DevOps Wonderland (Winter Wonderland Parody)  | Traditional  | [Go to lyrics](playlist/devops_wonderland.md)               |
 
 ## 🤝 How to Collaborate
 
@@ -47,20 +56,6 @@ Contributing is simple, fun, and intentionally a little bit silly.
 
 🎅 Santa’s rule:
 > If it makes developers laugh while reading it in a terminal, it belongs here.
-
----
-
-## 🎼 Playlist
-
-| Status | Song Title                                   | Genre        | Link                                                         |
-|:-----:|----------------------------------------------|--------------|--------------------------------------------------------------|
-| ▶️    | The Final Countdown                           | Epic Rock    | [Go to lyrics](playlist/the_final_countdown.md)             |
-| ⏸️    | Silent Code (Silent Night Parody)             | Traditional  | [Go to lyrics](playlist/silent_code.md)                     |
-| ⏸️    | All I Want for Christmas is Code              | Pop          | [Go to lyrics](playlist/all_i_want_for_christmas_is_code.md)|
-| ⏸️    | Last Christmas (I Gave You My PR)             | Pop          | [Go to lyrics](playlist/last_christmas_i_gave_you_my_pr.md) |
-| ⏸️    | Jingle Bells (API Calls Parody)               | Traditional  | [Go to lyrics](playlist/jingle_bells_api_calls.md)          |
-| ⏸️    | Deck the Halls with Code                      | Traditional  | [Go to lyrics](playlist/deck_the_halls_with_code.md)        |
-| ⏸️    | DevOps Wonderland (Winter Wonderland Parody)  | Traditional  | [Go to lyrics](playlist/devops_wonderland.md)               |
 
 ---
 
